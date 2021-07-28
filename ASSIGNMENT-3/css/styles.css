@@ -16,7 +16,7 @@ body {
 }
 
 #logo {
-  background: url("../images/chachu.jpg") no-repeat;
+  background: url("../images/favicon_140x140.png") no-repeat;
   height: 140px;
   width: 140px;
   margin: 10px 5px 10px 0px;
@@ -25,7 +25,7 @@ body {
   right: 30%;
 }
 
-#mhrd {
+#ssl {
   height: 40px;
   width: 40px;
   border-radius: 50%;
@@ -274,7 +274,7 @@ h3.menu-item-title{
 
   /*header*/
   #logo {
-    background: url("../images/chachu.jpg") no-repeat;
+    background: url("../images/favicon_96x96.png") no-repeat;
     height: 96px;
     width: 96px;
     margin: 5px 5px 5px 0;
